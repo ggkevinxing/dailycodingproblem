@@ -1,5 +1,5 @@
 # Given a list of numbers and a number k, return whether any two numbers from the list add up to k
-# Example: Given  and k of 17, return true since 10 + 7 is 17
+# Example: Given and k of 17, return true since 10 + 7 is 17
 
 def pairSumToK(nums, k):
 	compliments = set()
